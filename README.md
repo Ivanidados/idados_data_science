@@ -9,7 +9,6 @@ Meu portfólio em projetos de Data Science
 # Ivan Santos
 <sub>*Consultor * Totvs Power BI</sub>
 
-Consultor TOTVS
 Atividades desenvolvidas como Consultor
 
 Atualização de versão e releases.
