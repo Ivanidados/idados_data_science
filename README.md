@@ -7,7 +7,7 @@ Meu portfólio em projetos de Data Science
 </p>
 
 # Ivan Santos
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Consultor * Totvs Power BI</sub>
 
 Consultor TOTVS
 Atividades desenvolvidas como Consultor
