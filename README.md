@@ -9,9 +9,17 @@ Meu portfólio em projetos de Data Science
 # Ivan Santos
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Consultor TOTVS
+Atividades desenvolvidas como Consultor
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Atualização de versão e releases.
+Levantamento de requisitos, realização de mapeamento de processos para implantação de funcionalidades ou desenvolvimento de novas rotinas.
+Elaborar estimativa para desenvolvimento e/ou implementação de novos módulos.
+Desenvolvimento Protheus ADVPL / MVC.
+Experiência em customização, manipulação de tabelas, desenvolvimento de relatórios, workflow, pontos de entrada e JOB.
+Experiência em integração (APIs) do ERP Protheus com outras aplicações via Webservice (REST e SOAP, arquivo texto e xls).
+Experiência funcional dos módulos: Financeiro, Faturamento, Compras, Estoque/Custos, Folha de pagamento, Ponto Eletrônico,Contabilidade, Fiscal, TSS e TAF.
+Experiência com bancos de dados SQL SERVER.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
